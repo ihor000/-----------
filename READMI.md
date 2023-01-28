@@ -22,7 +22,7 @@
 
  ## Блок-схема алгоритма:
 
- ![](C:\Users\Игорь\Desktop\Diagram.drawio.png "")
+ ![схема](C:\Users\Игорь\Desktop\Без имени.jpg)
 
 
 
