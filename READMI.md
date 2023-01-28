@@ -22,7 +22,7 @@
 
  ## Блок-схема алгоритма:
 
-
+ ![Alt](C:\Users\Игорь\Desktop\Diagram.drawio.png "")
 
 
 
